@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "grammy": "^1.36.3"
+  }
+}
